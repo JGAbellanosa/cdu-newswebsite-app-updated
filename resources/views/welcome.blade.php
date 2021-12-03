@@ -59,7 +59,7 @@
 </br>
 </br>
 </br>
-<center><b><p class="card-text text-white">WELCOME TO CDU INFO CENTER NEWS</center></b></p>
+<center><b><p class="card-text text-white">WELCOME TO CDU INFO CENTER NEWSssss</center></b></p>
 </br>
 </br>
 </br>
