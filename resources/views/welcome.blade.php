@@ -40,7 +40,7 @@
     <a href="/getlotto">Get Lotto</a>
     <a href="/recommended">Recommended</a>
     <a href="/promotional">Promotional</a>
-    <a class="active" href="/ads">Ads</a>
+    <a href="/ads">Ads</a>
   </div>
   </div>
   </br>
@@ -59,7 +59,7 @@
 </br>
 </br>
 </br>
-<center><b><p class="card-text text-white">WELCOME TO CDU INFO CENTER NEWSssss</center></b></p>
+<center><b><p class="card-text text-white">WELCOME TO CDU INFO CENTER NEWS. GO TO HOME</center></b></p>
 </br>
 </br>
 </br>
