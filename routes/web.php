@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\URL;
+use Illuminate\Support\Facades\Schema;
 use App\Http\Controllers\InfocenterController;
 use App\Http\Controllers\InfocenterControllerNull;
 
