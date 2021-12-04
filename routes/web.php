@@ -15,6 +15,10 @@ use App\Http\Controllers\InfocenterControllerNull;
 |
 */
 
+if (App::environment('local')) {
+    URL::forceScheme('https');
+}
+
 Route::get('/', function () {
     return view('welcome');
 });
