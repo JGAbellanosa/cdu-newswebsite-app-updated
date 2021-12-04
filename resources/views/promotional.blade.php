@@ -58,7 +58,7 @@
     @foreach ($data['result'] as $dat)
     </br>
     <div class="text-center">
-    <img src= "secure_asset{{ $dat['image_url']}}" class="rounded" alt="{{ $dat['image_url']}}"></a>
+    <img src= "{{ $dat['image_url']}}" class="rounded" alt="{{ $dat['image_url']}}"></a>
     <div class="card-body">
     <h5 class="card-title text-white">{{ $dat['title']}}</h5>
     <p class="card-text text-white">{{ $dat['category']}}</p>
